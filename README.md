@@ -1,4 +1,4 @@
-# World-Puzzle
+# Word-Puzzle
 
 This program is written in Java
 
